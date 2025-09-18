@@ -1,3 +1,4 @@
-## 
+## Hi! 
 
-📩 @hhjenine308@gmail.com
+🖥️ C, C++, Python, Git, Linux
+📩 Contact: hannah.marsh@wsu.edu
