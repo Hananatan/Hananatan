@@ -1,4 +1,5 @@
-## Hi! 
+## Hi, Im Hannah 🌱
 
-🖥️ C, C++, Python, Git, Linux
+🖥️  C • C++ • Python • Git • Linux   
+
 📩 Contact: hannah.marsh@wsu.edu
